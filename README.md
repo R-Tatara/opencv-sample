@@ -1,6 +1,6 @@
 # OpenCV sample
 
-This script processes images using OpenCV. It reads an image or captures a frame from a USB camera, applies preprocessing (grayscale conversion, Gaussian blur, and OtsuÅfs thresholding), and saves the processed image.
+This script processes images using OpenCV. It reads an image or captures a frame from a USB camera, applies preprocessing (grayscale conversion, Gaussian blur, and Otsu's thresholding), and saves the processed image.
 
 ## Installation
 
